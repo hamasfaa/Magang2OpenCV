@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/hamasfa/Desktop/Magang2OpenCV/build",
-  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/MAGANG2OPENCV.dir/Tugas2.cpp.o -c /home/hamasfa/Desktop/Magang2OpenCV/Tugas2.cpp",
-  "file": "/home/hamasfa/Desktop/Magang2OpenCV/Tugas2.cpp"
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.o -c /home/hamasfa/Desktop/Magang2OpenCV/Tugas1.cpp",
+  "file": "/home/hamasfa/Desktop/Magang2OpenCV/Tugas1.cpp"
 }
 ]

@@ -8,7 +8,7 @@ set(OpenCV_DIR "/home/hamasfa/opencv_build")
 find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
-add_executable(MAGANG2OPENCV "Tugas2.cpp")
+add_executable(MAGANG2OPENCV "Tugas1.cpp")
 
 target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
 
