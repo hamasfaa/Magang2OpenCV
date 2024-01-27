@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MAGANG2OPENCV.dir/Tugas2.cpp.o"
+  "CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.o"
   "MAGANG2OPENCV"
   "MAGANG2OPENCV.pdb"
 )
