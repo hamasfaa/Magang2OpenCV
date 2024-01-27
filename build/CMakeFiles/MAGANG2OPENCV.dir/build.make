@@ -57,27 +57,27 @@ include CMakeFiles/MAGANG2OPENCV.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/MAGANG2OPENCV.dir/flags.make
 
-CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.o: CMakeFiles/MAGANG2OPENCV.dir/flags.make
-CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.o: ../Tugas3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hamasfa/Desktop/Magang2OpenCV/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.o -c /home/hamasfa/Desktop/Magang2OpenCV/Tugas3.cpp
+CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.o: CMakeFiles/MAGANG2OPENCV.dir/flags.make
+CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.o: ../Tugas1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hamasfa/Desktop/Magang2OpenCV/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.o -c /home/hamasfa/Desktop/Magang2OpenCV/Tugas1.cpp
 
-CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hamasfa/Desktop/Magang2OpenCV/Tugas3.cpp > CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.i
+CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hamasfa/Desktop/Magang2OpenCV/Tugas1.cpp > CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.i
 
-CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hamasfa/Desktop/Magang2OpenCV/Tugas3.cpp -o CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.s
+CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hamasfa/Desktop/Magang2OpenCV/Tugas1.cpp -o CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.s
 
 # Object files for target MAGANG2OPENCV
 MAGANG2OPENCV_OBJECTS = \
-"CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.o"
+"CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.o"
 
 # External object files for target MAGANG2OPENCV
 MAGANG2OPENCV_EXTERNAL_OBJECTS =
 
-MAGANG2OPENCV: CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.o
+MAGANG2OPENCV: CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.o
 MAGANG2OPENCV: CMakeFiles/MAGANG2OPENCV.dir/build.make
 MAGANG2OPENCV: /usr/local/lib/libopencv_gapi.so.4.9.0
 MAGANG2OPENCV: /usr/local/lib/libopencv_stitching.so.4.9.0

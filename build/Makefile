@@ -520,32 +520,32 @@ MAGANG2OPENCV/fast:
 	$(MAKE) -f CMakeFiles/MAGANG2OPENCV.dir/build.make CMakeFiles/MAGANG2OPENCV.dir/build
 .PHONY : MAGANG2OPENCV/fast
 
-Tugas3.o: Tugas3.cpp.o
+Tugas1.o: Tugas1.cpp.o
 
-.PHONY : Tugas3.o
+.PHONY : Tugas1.o
 
 # target to build an object file
-Tugas3.cpp.o:
-	$(MAKE) -f CMakeFiles/MAGANG2OPENCV.dir/build.make CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.o
-.PHONY : Tugas3.cpp.o
+Tugas1.cpp.o:
+	$(MAKE) -f CMakeFiles/MAGANG2OPENCV.dir/build.make CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.o
+.PHONY : Tugas1.cpp.o
 
-Tugas3.i: Tugas3.cpp.i
+Tugas1.i: Tugas1.cpp.i
 
-.PHONY : Tugas3.i
+.PHONY : Tugas1.i
 
 # target to preprocess a source file
-Tugas3.cpp.i:
-	$(MAKE) -f CMakeFiles/MAGANG2OPENCV.dir/build.make CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.i
-.PHONY : Tugas3.cpp.i
+Tugas1.cpp.i:
+	$(MAKE) -f CMakeFiles/MAGANG2OPENCV.dir/build.make CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.i
+.PHONY : Tugas1.cpp.i
 
-Tugas3.s: Tugas3.cpp.s
+Tugas1.s: Tugas1.cpp.s
 
-.PHONY : Tugas3.s
+.PHONY : Tugas1.s
 
 # target to generate assembly for a file
-Tugas3.cpp.s:
-	$(MAKE) -f CMakeFiles/MAGANG2OPENCV.dir/build.make CMakeFiles/MAGANG2OPENCV.dir/Tugas3.cpp.s
-.PHONY : Tugas3.cpp.s
+Tugas1.cpp.s:
+	$(MAKE) -f CMakeFiles/MAGANG2OPENCV.dir/build.make CMakeFiles/MAGANG2OPENCV.dir/Tugas1.cpp.s
+.PHONY : Tugas1.cpp.s
 
 # Help Target
 help:
@@ -587,9 +587,9 @@ help:
 	@echo "... ContinuousSubmit"
 	@echo "... ContinuousBuild"
 	@echo "... MAGANG2OPENCV"
-	@echo "... Tugas3.o"
-	@echo "... Tugas3.i"
-	@echo "... Tugas3.s"
+	@echo "... Tugas1.o"
+	@echo "... Tugas1.i"
+	@echo "... Tugas1.s"
 .PHONY : help
 
 
